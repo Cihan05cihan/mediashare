@@ -1,0 +1,74 @@
+body {
+    margin: auto;
+    margin-top: 50px;
+    background-color: #232323;
+    color: #fff;
+    font-family: Ramabhadra;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    max-width: 50%;
+    min-width: 50px;
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+  }
+
+h1{
+    text-align: center;
+    margin: auto;
+    margin-top: -5px;
+    margin-bottom: 50px;
+}
+
+button{
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    margin: auto;
+    position: relative;
+    display: inline;
+    top: 50%;
+    display: block;
+    padding: 15px 32px;
+    width: 250px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: 0.15s;
+}
+
+.discord{
+    background-color: #7289da;
+}
+
+.discord:hover{
+    background-color: #7289da70;
+}
+
+.twitch{
+    background-color: #6441a5;
+}
+
+.twitch:hover{
+    background-color: #6441a570;
+}
+
+.youtube{
+    background-color: #FF0000;
+}
+
+.youtube:hover{
+    background-color: #ff000070;
+}
+
+.twitter{
+    background-color: #1DA1F2;
+}
+
+.twitter:hover{
+    background-color: #1DA1F270;
+}
